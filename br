@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple Page</title>
+</head>
+<body>
+    <h1>Welcome to My Website</h1>
+    <p>This is a simple HTML page.</p>
+    <h2>About</h2>
+    <p>Learning HTML is easy.</p>
+    <h2>Features</h2>
+    <ul>
+        <li>Fast</li>
+        <li>Simple</li>
+        <li>Easy to Learn</li>
+    </ul>
+    <button>Click Me</button>
+</body>
+</html>
